@@ -270,4 +270,4 @@ MailMatrix provides an efficient, secure, and scalable solution for sending bulk
 - Use CloudWatch logs and dashboards for performance tuning and troubleshooting.
 - Ensure S3 buckets are secure by enabling server-side encryption and limiting access via bucket policies.
 
-##[![GitHub](https://img.shields.io/badge/GitHub-shreykumar33-B22222?style=flat-square&logo=github)](https://github.com/shreykumar33)
+
